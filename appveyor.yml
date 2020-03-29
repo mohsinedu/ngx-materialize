@@ -37,3 +37,5 @@ build: off
 cache:
   - node_modules -> yarn.lock
   - "%LOCALAPPDATA%/Yarn"
+
+Just for test
